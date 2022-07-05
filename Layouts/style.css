@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.ratings {
+    display: flex;
+    justify-content: space-around;
+}
