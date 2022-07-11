@@ -1,0 +1,9 @@
+{
+  "author": "Nasim",
+  "scripts": {
+    "write": "node write.js"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
