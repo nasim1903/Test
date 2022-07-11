@@ -9,10 +9,6 @@ main {
     height: 400px;
 }
 
-main::after{
-    background-color: #4285F4;
-    height: 400px;
-}
 
 h1, h3 {
     font-weight: 700;
